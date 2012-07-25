@@ -1,4 +1,4 @@
-// basic pwm test
+// basic pwm test.
 */   
    a basic rig to test the motor controller.
    uses a potentiometer to read pwm value,and a toggle switch to change direction.
