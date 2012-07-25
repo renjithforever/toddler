@@ -1,5 +1,5 @@
 // basic pwm test
-*/ use a pot to vary the pwm value on the fly..this can be used to check visually if ur motorcontroller is working correctly.
+*/   
    a basic rig to test the motor controller.
    uses a potentiometer to read pwm value,and a toggle switch to change direction.
    here a single pwm value is send to both motors, so connect PWM1 to both channels of the motorcontroller.
