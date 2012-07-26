@@ -20,7 +20,7 @@ outMin, min value of tilt, 0 degree
 outMax, max value for tile, 180 or 360 degree
 /*
 
-return ((inMax-inMin)/(outMax-outMin)*inNow)
+return ((inMax-inMin)/(outMax-outMin)*inNow);
 
 }
 
